@@ -14,4 +14,4 @@ cc = "1.0.37"
 
 [dependencies]
 libc = "0.2"
-ndarray = "0.12.1"
+ndarray = "0.13.1"
